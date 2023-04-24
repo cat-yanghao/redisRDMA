@@ -88,7 +88,7 @@ master端：
 ib_send_bw -d master
 ```
 
-![image-20230424171432416](\picture\1.png)
+![image-20230424171432416](/picture/1.png)
 
 slave1端
 
@@ -96,7 +96,7 @@ slave1端
 ib_send_bw -d slave1 <master ip>
 ```
 
-![image-20230424171533730](\picture\2.png)
+![image-20230424171533730](/picture/2.png)
 
 # 2运行
 
